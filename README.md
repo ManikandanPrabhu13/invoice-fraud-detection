@@ -14,7 +14,7 @@ Python, pandas, scikit-learn, matplotlib, Faker, Jupyter Notebook
 
 ## Results
 - days_to_pay and amount are top fraud signals (feature importance)
-- Model achieves high recall on fraud class — minimises missed fraud cases
+- High recall on fraud class — minimises missed fraud cases
 
 ## Status
 In Progress — EDA and baseline model complete.
