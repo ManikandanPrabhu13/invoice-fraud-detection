@@ -21,6 +21,6 @@ In Progress — EDA and baseline model complete.
 Next: XGBoost comparison, SHAP explainability
 
 ## Run It
-pip install -r requirements.txt
-python data/generate_data.py
+pip install -r requirements.txt  
+python data/generate_data.py  
 jupyter notebook notebook.ipynb
