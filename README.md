@@ -1,6 +1,5 @@
 # Invoice Fraud Detection — ML Classifier
-
-**Status:** Machine Learning Project | End-to-End ML Pipeline | Synthetic Enterprise Dataset
+**Status:** Machine Learning Project • End-to-End ML Pipeline • Synthetic Enterprise Dataset
 
 A machine learning project that detects potentially fraudulent invoices using a Random Forest classifier trained on synthetic invoice data. This project explores an end-to-end machine learning workflow, including data generation, feature engineering, model training, evaluation, and visualization.
 
